@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	The metadata required for the repository is created under the hidden directory '.git'. This metadata is the information that git used to store the commit done in the repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area is a set of files that you want to commit as a whole to the repository. All the files included in the staging area are in the working directory. Only a few/or one file/s of the working directory are included in the staging area.
+
+	The value that offer the staging area is to commit more than one file in the same commit.
+
+	
+	
