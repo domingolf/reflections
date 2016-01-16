@@ -8,5 +8,6 @@ How is the staging area different from the working directory and the repository?
 
 	The value that offer the staging area is to commit more than one file in the same commit.
 
-	
-	
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Only adding to the staging area the files that you need to include for that logical change.
