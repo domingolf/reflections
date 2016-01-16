@@ -16,3 +16,7 @@ What are some situations when branches would be helpful in keeping your history 
 
 	When you need to maintain different versions of the software. Maybe the versions would be temporary version just for test purposes or experimental changes. Branches help to manage different versions of the Software. There is a main line of development associated to the master branch and it could be others different branches for other purposes.
 	
+How do the diagrams help you visualize the branch structure?
+
+	The diagrams are the best way to visualize the branches and the commits done. Each 'ball' is a commit and the commits are connected with arrows which connect each commit with his parent.
+	
