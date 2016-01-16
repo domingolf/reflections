@@ -11,3 +11,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	Only adding to the staging area the files that you need to include for that logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you need to maintain different versions of the software. Maybe the versions would be temporary version just for test purposes or experimental changes. Branches help to manage different versions of the Software. There is a main line of development associated to the master branch and it could be others different branches for other purposes.
+	
